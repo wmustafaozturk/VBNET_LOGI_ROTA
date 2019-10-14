@@ -1,0 +1,11 @@
+C:\Users\xpc\Desktop\LogiRota\LogiRota\bin\LogiRota.dll.config
+C:\Users\xpc\Desktop\LogiRota\LogiRota\bin\LogiRota.dll
+C:\Users\xpc\Desktop\LogiRota\LogiRota\bin\LogiRota.pdb
+C:\Users\xpc\Desktop\LogiRota\LogiRota\bin\LogiRota.xml
+C:\Users\xpc\Desktop\LogiRota\LogiRota\obj\Release\LogiRota.vbprojAssemblyReference.cache
+C:\Users\xpc\Desktop\LogiRota\LogiRota\obj\Release\LogiRota.Resources.resources
+C:\Users\xpc\Desktop\LogiRota\LogiRota\obj\Release\LogiRota.vbproj.GenerateResource.cache
+C:\Users\xpc\Desktop\LogiRota\LogiRota\obj\Release\LogiRota.vbproj.CoreCompileInputs.cache
+C:\Users\xpc\Desktop\LogiRota\LogiRota\obj\Release\LogiRota.dll
+C:\Users\xpc\Desktop\LogiRota\LogiRota\obj\Release\LogiRota.xml
+C:\Users\xpc\Desktop\LogiRota\LogiRota\obj\Release\LogiRota.pdb

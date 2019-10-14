@@ -1,0 +1,419 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LogiRota
+</name>
+</assembly>
+<members>
+<member name="T:LogiRota.My.MyWebExtension">
+ <summary>
+ My Namespace for Web projelerinde kullanılabilen özellikleri tanımlamak için kullanılan modül.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:LogiRota.My.MyWebExtension.Computer">
+ <summary>
+ Ana bilgisayarla ilgili bilgiler döndürür.
+ </summary>
+</member>
+<member name="P:LogiRota.My.MyWebExtension.User">
+ <summary>
+ Geçerli Web kullanıcısıyla ilgili bilgiler döndürür.
+ </summary>
+</member>
+<member name="P:LogiRota.My.MyWebExtension.Request">
+ <summary>
+ Request nesnesi döndürür.
+ </summary>
+</member>
+<member name="P:LogiRota.My.MyWebExtension.Response">
+ <summary>
+ Response nesnesi döndürür.
+ </summary>
+</member>
+<member name="P:LogiRota.My.MyWebExtension.Log">
+ <summary>
+ Asp günlüğü nesnesi döndürür.
+ </summary>
+</member>
+<member name="F:LogiRota.Depolar._form1">
+<summary>
+form1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Depolar._ScriptManager1">
+<summary>
+ScriptManager1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Depolar._UpdatePanel1">
+<summary>
+UpdatePanel1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Depolar._TXT_ARA">
+<summary>
+TXT_ARA denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Depolar._BTN_DEPO_ARA">
+<summary>
+BTN_DEPO_ARA denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Depolar._FIYAT_LISTELERI_DIV">
+<summary>
+FIYAT_LISTELERI_DIV denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Depolar._GridView1">
+<summary>
+GridView1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Depolar._DivYukleniyor">
+<summary>
+DivYukleniyor denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Excel_import._form1">
+<summary>
+form1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Excel_import._ScriptManager1">
+<summary>
+ScriptManager1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Excel_import._TXT_ARA">
+<summary>
+TXT_ARA denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Excel_import._BTN_EXCEL_ARA">
+<summary>
+BTN_EXCEL_ARA denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Excel_import._BTN_ExcelImport">
+<summary>
+BTN_ExcelImport denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Excel_import._LBL_MALZEME_ID">
+<summary>
+LBL_MALZEME_ID denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Excel_import._FIYAT_LISTELERI_DIV">
+<summary>
+FIYAT_LISTELERI_DIV denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Excel_import._GridView1">
+<summary>
+GridView1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Menu._form1">
+<summary>
+form1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Menu._ScriptManager1">
+<summary>
+ScriptManager1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Menu._UpdatePanel1">
+<summary>
+UpdatePanel1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Menu._BtnDosyaYukle">
+<summary>
+BtnDosyaYukle denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Menu._BtnRotalar">
+<summary>
+BtnRotalar denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Menu._BtnDepolar">
+<summary>
+BtnDepolar denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Menu._BtnTeslimatNoktalari">
+<summary>
+BtnTeslimatNoktalari denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Menu._BtnRotaPlanlama">
+<summary>
+BtnRotaPlanlama denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Rotalar._form1">
+<summary>
+form1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Rotalar._ScriptManager1">
+<summary>
+ScriptManager1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Rotalar._UpdatePanel1">
+<summary>
+UpdatePanel1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Rotalar._TXT_ARA">
+<summary>
+TXT_ARA denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Rotalar._BTN_ROTA_ARA">
+<summary>
+BTN_ROTA_ARA denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Rotalar._FIYAT_LISTELERI_DIV">
+<summary>
+FIYAT_LISTELERI_DIV denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Rotalar._GridView1">
+<summary>
+GridView1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.Rotalar._DivYukleniyor">
+<summary>
+DivYukleniyor denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.RotaPlanlama._form1">
+<summary>
+form1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.RotaPlanlama._ScriptManager1">
+<summary>
+ScriptManager1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.RotaPlanlama._UpdatePanel1">
+<summary>
+UpdatePanel1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.RotaPlanlama._FIYAT_LISTELERI_DIV">
+<summary>
+FIYAT_LISTELERI_DIV denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.RotaPlanlama._Repeater1">
+<summary>
+Repeater1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.WebForm1._form1">
+<summary>
+form1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.WebForm1._FileUpload1">
+<summary>
+FileUpload1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.WebForm1._btnUpload">
+<summary>
+btnUpload denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.WebForm1._lblMessage">
+<summary>
+lblMessage denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:LogiRota.WebForm1._GridView1">
+<summary>
+GridView1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+</members>
+</doc>
